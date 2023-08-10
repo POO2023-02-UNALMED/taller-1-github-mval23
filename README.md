@@ -4,7 +4,7 @@
 🚀
 
 <div align="center">
-    <img src="your-cool-logo.png" alt="Cool Logo" width="200">
+    <img src="your-cool-logo.jfif" alt="Cool Logo" width="200">
 </div>
 
 # Awesome Project Title
