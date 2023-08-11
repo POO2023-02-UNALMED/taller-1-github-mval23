@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Mariana Valencia 
 19
 Crear un proyecto que me ayude a aprender y crecer como programadora :D
-=======
 porque la carpeta ya no esta vacia
->>>>>>> 62299ad8b9f764d914376237f47df53f04eb4af7
