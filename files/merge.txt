@@ -2,3 +2,5 @@ Mariana Valencia
 19
 Crear un proyecto que me ayude a aprender y crecer como programadora :D
 porque la carpeta ya no esta vacia
+
+Porque genera conflictos en el archivo y su contenido
